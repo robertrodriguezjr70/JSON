@@ -1,0 +1,18 @@
+{
+  "f_name": "Robert",
+  "l_name": "Rodriguez",
+  "age":50,
+  "maried": false,
+  "salary":null,
+  "g_friend":
+  {
+    "g_f_name": "Angela",
+    "gl_name":"Smith",
+    "g_f_age": 46
+  },
+  "Children" : [
+      {"Name": "Maney", "age":11},
+      {"Name": "Moe", "age":8 },
+      {"Name": "Jack", "age": 4}
+  ]
+}
